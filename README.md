@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="web/public/favicon.svg" alt="MedOS" width="80" />
@@ -371,3 +372,6 @@ Apache 2.0 — use it, modify it, deploy it, share it. **Free forever.**
 <a href="https://github.com/sponsors/ruslanmv"><img src="https://img.shields.io/badge/%F0%9F%92%96%20Sponsor%20MedOS-ec4899?style=flat-square" alt="Sponsor MedOS"/></a>
 
 </div>
+=======
+# ai-medical-chatbot
+>>>>>>> origin/ali
